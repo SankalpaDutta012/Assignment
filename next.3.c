@@ -1,4 +1,5 @@
 #include<stdio.h>
+//EXCHANGE LaSt TWO DiGiTs.
 int main() {
     int a, b, c, d;
     printf("Enter a number: ");
