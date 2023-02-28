@@ -3,10 +3,10 @@ int main() {
     int num, a, r, result = 0;
     printf("Enter a three-digit integer: ");
     scanf("%d", &num);
-    originalNum = num;
+    a = num;
 
     while (a != 0) {
-        remainder = a % 10;
+         r = a % 10;
          result += r * r * r;
          a /= 10;
     }
