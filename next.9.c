@@ -3,13 +3,11 @@
 int main(){
     int a;
     for(a = 20;a <= 40;a++){
-        
         printf("%d\n." , a);
         }
     for (a = 50; a <=80; a++){
         if(a%2 == 0)
-        printf("%d\n.", a);
+        printf("%d.\n", a);
     }
-    
     return 0;
 }
