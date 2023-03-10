@@ -5,7 +5,7 @@ int main (){
     scanf("%f", &a);
     y = a;
     b = a - y;
-    b = b*10 ;
+    b = b * 10 ;
     x = b ;
     c = b - x ;
     d = y + c ;
