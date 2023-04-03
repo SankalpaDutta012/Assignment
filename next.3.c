@@ -1,6 +1,9 @@
-#include<stdio.h>
 //EXCHANGE LaSt TWO DiGiTs.
+
+#include<stdio.h>
+
 int main() {
+   
     int a, b, c, d;
     printf("Enter a number: ");
     scanf("%d", &a);
@@ -8,5 +11,7 @@ int main() {
     c = a - (a / 10 * 10);
     d = a / 100 * 100 + c * 10 + b;
     printf("The number with last two digits exchanged is %d.\n", d);
+   
     return 0;
+
 }
