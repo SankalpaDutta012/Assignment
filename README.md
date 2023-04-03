@@ -6,5 +6,5 @@ LEARNING AND APPLICATION
                     Use it properly.
 
 
-Thank You 
+                    Thank You 
           Sankalpa Dutta
