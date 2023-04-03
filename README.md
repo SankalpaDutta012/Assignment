@@ -2,8 +2,8 @@
 LEARNING AND APPLICATION
 
 
-          -All the topics from each assigment is here!!!!!
-                    -Use it properly.
+          All the topics from each assigment is here!!!!!
+                    Use it properly.
 
 
 Thank You 
